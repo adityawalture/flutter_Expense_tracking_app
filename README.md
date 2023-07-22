@@ -13,10 +13,10 @@ Main widgets used in this app are :-
 
 | Image 1 | Image 2 |
 | ------- | ------- |
-| ![Image 1](screenshots\1.png) | ![Image 2](screenshots\2.png) |
+| ![Image 1]([screenshots\1.png](https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/1.png)) | ![Image 2]([screenshots\2.png](https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/2.png)) |
 
 
 
 | Image 3 | Image 4 |
 | ------- | ------- |
-| ![Image 3](screenshots\3.png) | ![Image 4](screenshots\4.png) |
+| ![Image 3]([screenshots\3.png](https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png)https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png) | ![Image 4]([screenshots\4.png](https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png)https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png) |
