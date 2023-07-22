@@ -12,7 +12,8 @@ Main widgets used in this app are :-
 
 
 <div>
-    <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/1.png" width="250" height="600">
-    <br>
-    <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/2.png" width="250" height="600">
+    <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/1.png" width="100" height="100">
+    <div style="width: 20px; display: inline-block;"></div>
+    <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/2.png" width="100" height="100">
 </div>
+
