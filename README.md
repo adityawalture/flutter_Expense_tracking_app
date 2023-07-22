@@ -18,8 +18,8 @@ Main widgets used in this app are :-
 </div>
 
 <!-- Two images in a row -->
-<div align="center">
-  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png" alt="Image 3" width="400" height="600"/>
-  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png" alt="Image 4" width="400" height="600"/>
+<div >
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png" alt="Image 3" width="200" height="600"/>
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png" alt="Image 4" width="200" height="600"/>
 </div>
 
