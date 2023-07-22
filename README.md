@@ -1,16 +1,22 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project that tracks the expenses in 4 category i.e; food, work, leisure, travel.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Main widgets used in this app are :-
+    -> ColorScheme for defining dark and light mode theme.
+    -> Dismissible for deleting the added expense by sliding it.
+    -> FractionallySizedBox for creating a Barplot.
+    -> showDatePicker for calender.
+    -> keyBoardType parameter of TextField widget used for opening a numeric keyboard.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Image 1 | Image 2 |
+| ------- | ------- |
+| ![Image 1](screenshots\1.png) | ![Image 2](screenshots\2.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+| Image 3 | Image 4 |
+| ------- | ------- |
+| ![Image 3](screenshots\3.png) | ![Image 4](screenshots\4.png) |

@@ -57,6 +57,8 @@ class _ExpensesState extends State<Expenses> {
 
   @override
   Widget build(BuildContext context) {
+    //width variable stores the device screen width if the screen size is more then 600 than the column will switch to row
+    final width = MediaQuery.of(context).size.width;
     Widget displayContent = const Center(
       child: Text("Add a Expense"),
     );
@@ -79,12 +81,19 @@ class _ExpensesState extends State<Expenses> {
           )
         ],
       ),
-      body: Column(
-        children: [
-          Chart(expenses: registeredExpenses),
-          Expanded(child: displayContent),
-        ],
-      ),
+      body: width < 600
+          ? Column(
+              children: [
+                Chart(expenses: registeredExpenses),
+                Expanded(child: displayContent),
+              ],
+            )
+          : Row(
+              children: [
+                Expanded(child: displayContent),
+                Expanded(child: Chart(expenses: registeredExpenses)),
+              ],
+            ),
     );
   }
 }
