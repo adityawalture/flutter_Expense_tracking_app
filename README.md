@@ -19,7 +19,7 @@ Main widgets used in this app are :-
 <br>
 <!-- Two images in a row -->
 <div >
-  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png" alt="Image 3" width="340" height="600" style="margin-right: 20px;/>
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png" alt="Image 3" width="340" height="600" style="margin-right: 20px;"/>
   <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png" alt="Image 4" width="340" height="600"/>
 </div>
 
