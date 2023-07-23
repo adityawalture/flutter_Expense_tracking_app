@@ -17,6 +17,7 @@ class _ExpensesState extends State<Expenses> {
 //void function for button in appbar adding expenses
   void _addExpensesOverlay() {
     showModalBottomSheet(
+      useSafeArea: true,
       isScrollControlled: true,
       context: context,
       builder: (ctx) => NewExpenses(
