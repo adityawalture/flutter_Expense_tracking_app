@@ -11,12 +11,15 @@ Main widgets used in this app are :-
     -> keyBoardType parameter of TextField widget used for opening a numeric keyboard.
 
 
-| Image 1 | Image 2 |
-| ------- | ------- |
-| ![Image 1](screenshots\1.png) | ![Image 2](screenshots\2.png) |
+<!-- Two images in a row -->
+<div >
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/1.png" alt="Image 1" width="340" height="600 style="margin-right: 50px;"/>
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/2.png" alt="Image 2" width="340" height="600"/>
+</div>
+<br>
+<!-- Two images in a row -->
+<div >
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/3.png" alt="Image 3" width="340" height="600" style="margin-right: 20px;"/>
+  <img src="https://github.com/adityawalture/flutter_Expense_tracking_app/blob/main/screenshots/4.png" alt="Image 4" width="340" height="600"/>
+</div>
 
-
-
-| Image 3 | Image 4 |
-| ------- | ------- |
-| ![Image 3](screenshots\3.png) | ![Image 4](screenshots\4.png) |
