@@ -1,5 +1,9 @@
 # expense_tracker
-
+<div >
+  <img src="assets\logo.png" alt="Logo" width="340" height="600 style="margin-right: 50px;"/>
+  
+</div>
+<br>
 A new Flutter project that tracks the expenses in 4 category i.e; food, work, leisure, travel.
 
 
