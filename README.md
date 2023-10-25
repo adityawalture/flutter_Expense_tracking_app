@@ -1,6 +1,6 @@
 # expense_tracker
 <div >
-  <img src="assets\logo.png" alt="Logo" width="340" height="600 style="margin-right: 50px;"/>
+  <img src="assets\logo.png" alt="Logo" width="100" height="100 style="margin-right: 50px;"/>
   
 </div>
 <br>
